@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    color:rgb(5, 47, 184);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+}
+h2{
+    color: rgb(5, 47, 184);
+
+}
+img{
+    border-radius: 15px;
+    padding: 5px;
+}
+button{
+    background-color: rgb(5, 47, 184);
+    color: white;
+    cursor: pointer;
+    padding: 15px 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    background-color: rgb(15, 42, 131);
+    transform: translateY(-5px);
+}
